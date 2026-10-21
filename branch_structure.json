@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-457-featured-carousel-on-the-homepage",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-457-featured-carousel-on-the-homepage": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-457-featured-carousel-on-the-homepage",
+    "origin"
+  ]
+}
